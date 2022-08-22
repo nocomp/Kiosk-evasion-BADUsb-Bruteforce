@@ -1,4 +1,4 @@
-REM KIOSK EVASION EXPERIEMENTAL PAYLOADS
+REM KIOSK MODE EVASION EXPERIEMENTAL PAYLOADS
 REM Target: Windows
 REM Stop this script when evasion is succeed
 REM and run your true payload
