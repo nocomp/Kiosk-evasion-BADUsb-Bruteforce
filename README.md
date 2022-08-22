@@ -7,7 +7,7 @@ For experimental use only, don t be a dick
 
 
 more info about kiosk evasion here https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows/ <br>
-Big Thanks to <b>@Yvan</b> for the very helpfull debug! 
+Big Thanks to <b>@Yvan https://github.com/lepeli</b> for the very helpfull debug! 
 <h2>!!! replace ALTSTRING by STRING if you face encoding issue !!!</h2>
 join us on flipper zero discord https://discord.gg/dYyPMytf
 
