@@ -5,11 +5,11 @@ REM and run your true payload
 REM optimised for Flipper Zero
 REM Auth: @nocomp
 DELAY 2000
-ALT-F4
+ALT F4
 DELAY 1000
-ALT-SPACE
+ALT SPACE
 DELAY 1000
-ALT-TAB
+ALT TAB
 DELAY 1000
 CTRL-B
 DELAY 1000
