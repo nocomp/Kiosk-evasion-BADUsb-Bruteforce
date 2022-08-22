@@ -6,4 +6,8 @@ Run this script first, stop it when evasion is successfull, then run your true p
 For experimental use only, don t be a dick
 
 
-more info about kiosk evasion here https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows/
+more info about kiosk evasion here https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows/ <br>
+
+<h2>!!! replace ALTSTRING by STRING if you face encoding issue !!!</h2>
+join us on flipper zero discord https://discord.gg/dYyPMytf
+
