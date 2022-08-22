@@ -192,7 +192,7 @@ GUI r
 ALTSTRING shell:Administrative Tools
 DELAY 500
 GUI r
-AltSTRING shell:DocumentsLibrary
+ALTSTRING shell:DocumentsLibrary
 DELAY 500
 GUI r
 DELAY 500
