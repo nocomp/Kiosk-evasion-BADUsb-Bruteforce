@@ -1,4 +1,7 @@
 # Kiosk-evasion-BADUsb-Bruteforce
+POC Video:
+https://youtube.com/shorts/fEbEJ2AoIP0?feature=share
+
 Experimental payload script for evade kiosk mode using rubber ducky or flipper zero.<br>
 <b><h1>If you find other evasion tricks, please open an issue and post them, they ll be added, thank you! </b></h1>
 <br>
