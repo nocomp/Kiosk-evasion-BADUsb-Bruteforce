@@ -1,6 +1,6 @@
 # Kiosk-evasion-BADUsb-Bruteforce
 POC Video:
-https://youtube.com/shorts/fEbEJ2AoIP0?feature=share
+<br>
 [![Kiosk Mode Evasion](https://img.youtube.com/vi/fEbEJ2AoIP0/0.jpg)](https://www.youtube.com/watch?v=fEbEJ2AoIP0 "Kiosk mode bruteforce evasion")
 
 <br>
