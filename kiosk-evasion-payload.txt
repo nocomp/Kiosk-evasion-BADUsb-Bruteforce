@@ -4,6 +4,7 @@ REM Stop this script when evasion is succeed
 REM and run your true payload
 REM optimised for Flipper Zero
 REM Auth: @nocomp
+REM Props: @FalsePhilosopher for showing me the trustedsec blog post this was built from
 DELAY 2000
 ALT F4
 DELAY 700
